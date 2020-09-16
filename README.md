@@ -1,1 +1,1 @@
-# Bseball-Regression
+# BaseballRegression
